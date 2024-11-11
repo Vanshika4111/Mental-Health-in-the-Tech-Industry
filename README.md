@@ -1,6 +1,5 @@
 # Mental Health Matters: A Tech Industry Analysis
 
-
 ## Overview
 
 This project focuses on analyzing mental health trends and challenges in the tech industry. Using data science methods, we explore factors influencing mental health, evaluate the prevalence of mental health issues, and analyze the impact of workplace culture, support systems, and demographics on mental health outcomes.
