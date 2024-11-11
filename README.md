@@ -116,4 +116,13 @@ This project has several avenues for expansion and improvement:
 
 These improvements would help increase the project's impact and make the findings more actionable for a wider audience.
 
+## Contact
 
+For questions, feedback, or collaboration inquiries, please reach out:
+
+- **Name**: Your Name
+- **Email**: [sharmavanshikaa123@gmail.com](mailto:sharmavanshikaa123@gmail.com)
+- **LinkedIn**: [Vanshika_Sharma](www.linkedin.com/in/vanshika-sharma-93a0b4322)
+
+
+Feel free to open an issue or submit a pull request if you’d like to contribute to the project. Your input and ideas are always welcome!
