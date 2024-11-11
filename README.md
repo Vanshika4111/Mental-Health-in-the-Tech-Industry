@@ -46,9 +46,6 @@ The analysis uses publicly available datasets, including:
 
 Each dataset was processed and cleaned to ensure consistent formats and compatibility with the analysis pipeline.
 
-## Project Structure
-
-The project is organized as follows:
 
 
 ## Installation
