@@ -1,6 +1,6 @@
 # Mental Health Matters: A Tech Industry Analysis
 
-![Project Banner](D:\OneDrive\Desktop) <!-- Optional: Add an image for visual appeal -->
+![Project Banner](https://1drv.ms/i/c/aa308c8f4afe9add/ERIZhF1K3ixCvVOJM3kHSr8B2eNAHRLWlGqMwpPHn4U3WQ?e=QJ4ghv) <!-- Optional: Add an image for visual appeal -->
 
 ## Overview
 
@@ -11,7 +11,6 @@ This project focuses on analyzing mental health trends and challenges in the tec
 - [Overview](#overview)
 - [Project Motivation](#project-motivation)
 - [Data Sources](#data-sources)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
@@ -19,6 +18,17 @@ This project focuses on analyzing mental health trends and challenges in the tec
 - [Contributing](#contributing)
 - [Future Work](#future-work)
 - [Contact](#contact)
+
+
+
+## Overview
+
+This project, *Mental Health Matters: A Tech Industry Analysis*, investigates mental health trends and challenges within the tech industry. By analyzing data on workplace culture, demographics, and mental health policies, we aim to uncover factors that impact employee well-being and highlight opportunities for positive change. The insights generated from this analysis can help guide tech companies in developing more supportive, healthy work environments.
+
+Key objectives of this project include:
+- Analyzing mental health issues faced by tech professionals.
+- Identifying correlations between workplace factors and mental health outcomes.
+- Providing data-driven recommendations for improving mental health support within tech companies.
 
 ## Project Motivation
 
