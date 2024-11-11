@@ -1,6 +1,5 @@
 # Mental Health Matters: A Tech Industry Analysis
 
-![image](https://1drv.ms/i/c/aa308c8f4afe9add/ERIZhF1K3ixCvVOJM3kHSr8B2eNAHRLWlGqMwpPHn4U3WQ?e=QJ4ghv) <!-- Optional: Add an image for visual appeal -->
 
 ## Overview
 
