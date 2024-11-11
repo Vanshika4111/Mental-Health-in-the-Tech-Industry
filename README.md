@@ -1,6 +1,6 @@
 # Mental Health Matters: A Tech Industry Analysis
 
-![Project Banner](path/to/your/banner-image.png) <!-- Optional: Add an image for visual appeal -->
+![Project Banner](D:\OneDrive\Desktop) <!-- Optional: Add an image for visual appeal -->
 
 ## Overview
 
@@ -18,7 +18,6 @@ This project focuses on analyzing mental health trends and challenges in the tec
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [Future Work](#future-work)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Motivation
@@ -112,9 +111,4 @@ This project has several avenues for expansion and improvement:
 
 These improvements would help increase the project's impact and make the findings more actionable for a wider audience.
 
-### Notes:
-- Replace placeholders like `https://github.com/yourusername` with your actual GitHub username.
-- You may want to add a "Banner" image if you have a logo or visual introduction for the project.
-- Customize the `Future Work` and `Technologies Used` sections based on any additional tools or plans you have for the project.
 
-This template provides a full and detailed README that’s clear and useful for potential collaborators and users. Let me know if you want further adjustments!
