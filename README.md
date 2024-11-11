@@ -120,7 +120,7 @@ These improvements would help increase the project's impact and make the finding
 
 For questions, feedback, or collaboration inquiries, please reach out:
 
-- **Name**: Your Name
+- **Name**: Vanshika Sharma
 - **Email**: [sharmavanshikaa123@gmail.com](mailto:sharmavanshikaa123@gmail.com)
 - **LinkedIn**: [Vanshika_Sharma](www.linkedin.com/in/vanshika-sharma-93a0b4322)
 
